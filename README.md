@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=zZfhAXfBvVA&list=RDCMUCnnQ3ybuyFdzvgv2Ky5jnAA&in
 
 Install Jenkins, configure Docker as agent, set up cicd, deploy applications to k8s and much more.
 
-## AWS EC2 Instance
+### AWS EC2 Instance
 
 - Go to AWS Console
 - Instances(running)
